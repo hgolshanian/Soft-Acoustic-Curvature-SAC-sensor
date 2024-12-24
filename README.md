@@ -21,7 +21,7 @@ Figure3. COMPARISON OF THE REGRESSION MODELS
 To assess the accuracy of the proposed curvature measurement method, we subjected the sensor to validation tests using rigid test objects of known curvatures. The results indicate that while the sensor’s errors are relatively large (~<3 m-1) at smaller curvatures (curvature < 10 m-1), the sensor performs well for curvatures exceeding 10 m-1, with errors reduced to ~<1 m-1.
 
 <p align="center" >
-<img src="https://github.com/hgolshanian/Soft-Acoustic-Curvature-SAC-sensor/blob/main/Photos/Capture7.PNG" width=450 height=300>
+<img src="" width=450 height=300>
 <p align="center" >
 Figure4. MEASUREMENT RESULTS
 
