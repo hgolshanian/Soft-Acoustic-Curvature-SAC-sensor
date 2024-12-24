@@ -5,3 +5,4 @@ This research focuses on design and development of a Soft Acoustic Curvature (SA
 <img src="https://github.com/hgolshanian/Soft-Acoustic-Curvature-SAC-sensor/blob/main/Photos/Picture1.png" width=450 height=300>
 <p align="center" >
 Figure2. Soft Acoustic Curvature
+We have Prepared dataset using known curvatures and 1000 samples and then Trained different Machine Learning models. 
