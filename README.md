@@ -14,3 +14,4 @@ To select the appropriate Machine Learning model the validation error played a c
 
   
 According to Figure3 Rational quadratic Gaussian process regression model showed the best performance for both sensors
+https://github.com/hgolshanian/Soft-Acoustic-Curvature-SAC-sensor/blob/main/Photos/Capture4.PNG
