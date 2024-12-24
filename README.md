@@ -1,4 +1,4 @@
-# Soft-Acoustic-Curvature-SAC-sensor
+# Soft-Acoustic-Curvature-sensor
 This research focuses on design and development of a Soft Acoustic Curvature (SAC) sensor. An AI model has been developed to establish the correlation between sound amplitude and the curvature of the sensor. An acoustic channel was considered inside the soft structure affected by bending.
 
 <p align="center" >
